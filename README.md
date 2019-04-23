@@ -5,3 +5,4 @@ Read my full blog post for thi repo here->https://soumyadip1995.blogspot.com/201
 ## A few other Learning Resources
 
 1. https://cloud.google.com/tpu/docs/tpus
+2. https://en.wikipedia.org/wiki/Tensor_processing_unit
